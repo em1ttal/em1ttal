@@ -1,6 +1,6 @@
 # Hello, I am Eshaan Mittal
 
-Welcome to my GitHub profile. Here I will upload various university and side projects thah I have done.
+Welcome to my GitHub profile. Here I will upload various university and side projects that I have done.
 
 ## 🛠️ Skills
 
