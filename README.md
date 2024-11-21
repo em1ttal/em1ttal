@@ -20,6 +20,7 @@ Below are the programming languages, frameworks, libraries, and tools that I am 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas]( )https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![scikit-image](https://img.shields.io/badge/-scikit--image-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-007396?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
